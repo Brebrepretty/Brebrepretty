@@ -1,7 +1,7 @@
 <!-- GOLD BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=220&section=header&text=Samari%20Robinson%20Camacho&fontSize=34&fontColor=111111&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Security&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=220&section=header&text=Samari%20Robinson%20Camacho&fontSize=34&fontColor=111111&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Security&descAlignY=58&descSize=16" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Samari Robinson Camacho</h1>
@@ -12,11 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brebrepretty&label=Profile%20Views&color=FFD700&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Building+real-world+systems+with+Python%2C+C%2B%2B%2C+and+Java;Focused+on+backend+development%2C+embedded+systems%2C+and+secure+coding;Creating+projects+that+connect+software+with+real-world+problem+solving" />
+  <img src="https://komarev.com/ghpvc/?username=Brebrepretty&label=Profile%20Views&color=FFD700&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -32,7 +28,7 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mongodb,sqlite,github,git,linux,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mongodb,sqlite,github,git,linux,androidstudio" alt="Tech Stack Icons" />
 </p>
 
 **Core strengths:** Backend Development, Embedded Systems, Secure Coding, Data Visualization, MVC Architecture, CRUD Operations, Real-Time Systems
@@ -72,15 +68,6 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 * OpenGL-based rendering system
 * Scene management and object transformations
   🔗 [View Project](https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brebrepretty&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&border_color=FFD700" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brebrepretty&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=0d1117&border_color=FFD700" />
-</p>
 
 ---
 
