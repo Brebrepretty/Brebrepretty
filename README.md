@@ -1,18 +1,46 @@
-# 👋 Hi, I'm Samari Robinson Camacho
+<!-- GOLD BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=220&section=header&text=Samari%20Robinson%20Camacho&fontSize=34&fontColor=111111&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Security&descAlignY=58&descSize=16" />
+</p>
 
-### 💻 Software Engineering Student | Backend • Embedded Systems • Security
+<h1 align="center">👋 Hi, I'm Samari Robinson Camacho</h1>
 
-I’m a software engineering student with hands-on experience building real-world systems using Python, C++, and Java. I focus on backend development, embedded systems, and secure coding practices.
+<p align="center">
+  <strong>Software Engineering Student</strong><br/>
+  Backend • Embedded Systems • Security
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Building+real-world+systems+with+Python%2C+C%2B%2B%2C+and+Java;Focused+on+backend+development%2C+embedded+systems%2C+and+secure+coding;Creating+projects+that+connect+software+with+real-world+problem+solving" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
+
+I’m a software engineering student with hands-on experience building real-world systems using Python, C++, and Java. I focus on backend development, embedded systems, and secure coding practices.
+
+I bring a security-first mindset from real-world experience monitoring systems, and I apply that mindset to building reliable, maintainable, and scalable software solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mongodb,sqlite,github,git,linux,androidstudio" />
+</p>
+
+**Core strengths:** Backend Development, Embedded Systems, Secure Coding, Data Visualization, MVC Architecture, CRUD Operations, Real-Time Systems
+
+---
+
+## 🚀 Featured Projects (Portfolio Highlights)
 
 ### 🐾 Animal Shelter Dashboard
 - Built with Python, Dash, MongoDB
 - Full CRUD functionality and data visualization
 - MVC architecture for scalability  
-🔗 https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard
+🔗 [View Project](https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard)
 
 ---
 
@@ -20,42 +48,54 @@ I’m a software engineering student with hands-on experience building real-worl
 - Raspberry Pi project with real-time sensor processing
 - GPIO, PWM, and UART communication
 - State machine logic for system control  
-🔗 https://github.com/Brebrepretty/CS-350-embedded-systems-project
+🔗 [View Project](https://github.com/Brebrepretty/CS-350-embedded-systems-project)
 
 ---
 
 ### 🔐 Secure Coding Projects
 - Prevented buffer overflows and SQL injection
-- Implemented input validation and secure practices  
-🔗 https://github.com/Brebrepretty/CS-305-secure-coding-projects
+- Implemented input validation and secure coding practices  
+🔗 [View Project](https://github.com/Brebrepretty/CS-305-secure-coding-projects)
 
 ---
 
 ### 🎮 3D Graphics Engine (C++)
 - OpenGL-based rendering system
 - Scene management and object transformations  
-🔗 https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp
+🔗 [View Project](https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp)
 
 ---
 
-## 🛠️ Technical Skills
+## 📈 GitHub Stats
 
-**Languages:** Python, Java, C++  
-**Databases:** MongoDB, SQL  
-**Tools:** GitHub, Android Studio, Arduino IDE, Raspberry Pi  
-**Concepts:** Embedded Systems, CRUD, MVC, Security, Data Visualization  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brebrepretty&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&border_color=FFD700" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brebrepretty&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=0d1117&border_color=FFD700" />
+</p>
 
 ---
 
 ## 🎯 Career Focus
 
-- Backend Development  
-- Embedded Systems Engineering  
-- Software Security  
+- Backend Development
+- Embedded Systems Engineering
+- Software Security
+
+---
+
+## ⚡ Fun Fact
+
+I combine real-world security experience with software engineering to build reliable and secure systems.
 
 ---
 
 ## 📫 Connect With Me
 
 📧 robinsonsamari95@gmail.com  
-🔗 https://github.com/Brebrepretty
+🔗 [GitHub Profile](https://github.com/Brebrepretty)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" />
+</p>
