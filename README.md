@@ -1,4 +1,5 @@
 <!-- GOLD BANNER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=220&section=header&text=Samari%20Robinson%20Camacho&fontSize=34&fontColor=111111&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Security&descAlignY=58&descSize=16" />
 </p>
@@ -11,7 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Building+real-world+systems+with+Python%2C+C%2B%2B%2C+and+Java;Focused+on+backend+development%2C+embedded+systems%2C+and+secure+coding;Creating+projects+that+connect+software+with+real-world+problem+solving" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Brebrepretty&label=Profile%20Views&color=FFD700&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Building+real-world+systems+with+Python%2C+C%2B%2B%2C+and+Java;Focused+on+backend+development%2C+embedded+systems%2C+and+secure+coding;Creating+projects+that+connect+software+with+real-world+problem+solving" />
 </p>
 
 ---
@@ -37,32 +42,36 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 ## 🚀 Featured Projects (Portfolio Highlights)
 
 ### 🐾 Animal Shelter Dashboard
-- Built with Python, Dash, MongoDB
-- Full CRUD functionality and data visualization
-- MVC architecture for scalability  
-🔗 [View Project](https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard)
+
+* Built with Python, Dash, MongoDB
+* Full CRUD functionality and data visualization
+* MVC architecture for scalability
+  🔗 [View Project](https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard)
 
 ---
 
 ### 🔧 Embedded Systems – Smart Thermostat
-- Raspberry Pi project with real-time sensor processing
-- GPIO, PWM, and UART communication
-- State machine logic for system control  
-🔗 [View Project](https://github.com/Brebrepretty/CS-350-embedded-systems-project)
+
+* Raspberry Pi project with real-time sensor processing
+* GPIO, PWM, and UART communication
+* State machine logic for system control
+  🔗 [View Project](https://github.com/Brebrepretty/CS-350-embedded-systems-project)
 
 ---
 
 ### 🔐 Secure Coding Projects
-- Prevented buffer overflows and SQL injection
-- Implemented input validation and secure coding practices  
-🔗 [View Project](https://github.com/Brebrepretty/CS-305-secure-coding-projects)
+
+* Prevented buffer overflows and SQL injection
+* Implemented input validation and secure coding practices
+  🔗 [View Project](https://github.com/Brebrepretty/CS-305-secure-coding-projects)
 
 ---
 
 ### 🎮 3D Graphics Engine (C++)
-- OpenGL-based rendering system
-- Scene management and object transformations  
-🔗 [View Project](https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp)
+
+* OpenGL-based rendering system
+* Scene management and object transformations
+  🔗 [View Project](https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp)
 
 ---
 
@@ -77,9 +86,9 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 
 ## 🎯 Career Focus
 
-- Backend Development
-- Embedded Systems Engineering
-- Software Security
+* Backend Development
+* Embedded Systems Engineering
+* Software Security
 
 ---
 
@@ -91,7 +100,7 @@ I combine real-world security experience with software engineering to build reli
 
 ## 📫 Connect With Me
 
-📧 robinsonsamari95@gmail.com  
+📧 [robinsonsamari95@gmail.com](mailto:robinsonsamari95@gmail.com)
 🔗 [GitHub Profile](https://github.com/Brebrepretty)
 
 ---
