@@ -1,7 +1,5 @@
-<!-- GOLD BANNER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=220&section=header&text=Samari%20Robinson%20Camacho&fontSize=34&fontColor=111111&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Security&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&text=Samari%20Robinson%20Camacho&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Security&descAlignY=58&descSize=16" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Samari Robinson Camacho</h1>
@@ -12,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brebrepretty&label=Profile%20Views&color=FFD700&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Brebrepretty&label=Profile%20Views&color=8B0000&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -42,7 +40,7 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 * Built with Python, Dash, MongoDB
 * Full CRUD functionality and data visualization
 * MVC architecture for scalability
-  🔗 [View Project](https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard)
+  🔗 https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard
 
 ---
 
@@ -51,7 +49,7 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 * Raspberry Pi project with real-time sensor processing
 * GPIO, PWM, and UART communication
 * State machine logic for system control
-  🔗 [View Project](https://github.com/Brebrepretty/CS-350-embedded-systems-project)
+  🔗 https://github.com/Brebrepretty/CS-350-embedded-systems-project
 
 ---
 
@@ -59,7 +57,7 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 
 * Prevented buffer overflows and SQL injection
 * Implemented input validation and secure coding practices
-  🔗 [View Project](https://github.com/Brebrepretty/CS-305-secure-coding-projects)
+  🔗 https://github.com/Brebrepretty/CS-305-secure-coding-projects
 
 ---
 
@@ -67,7 +65,7 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 
 * OpenGL-based rendering system
 * Scene management and object transformations
-  🔗 [View Project](https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp)
+  🔗 https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp
 
 ---
 
@@ -88,10 +86,10 @@ I combine real-world security experience with software engineering to build reli
 ## 📫 Connect With Me
 
 📧 [robinsonsamari95@gmail.com](mailto:robinsonsamari95@gmail.com)
-🔗 [GitHub Profile](https://github.com/Brebrepretty)
+🔗 https://github.com/Brebrepretty
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer" />
 </p>
