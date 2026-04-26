@@ -19,7 +19,11 @@
 
 I’m a software engineering student with hands-on experience building real-world systems using Python, C++, and Java. I focus on backend development, embedded systems, and secure coding practices.
 
-I bring a security-first mindset from real-world experience monitoring systems, and I apply that mindset to building reliable, maintainable, and scalable software solutions.
+My background in security has shaped how I approach software. Working in an environment where systems need to be reliable, accurate, and always available taught me how important it is for software to behave exactly as expected. Small issues like delayed alerts, incorrect data, or system failures can have real consequences, and that mindset carries into how I design and build applications.
+
+I enjoy working on projects that combine functionality with reliability, whether that’s building data-driven dashboards, designing secure systems, or working with low-level components like embedded devices. I’m especially interested in how systems operate behind the scenes and how to make them more efficient, scalable, and secure.
+
+Right now, I’m continuing to build projects that strengthen my backend and system design skills while preparing for software engineering internship opportunities.
 
 ---
 
