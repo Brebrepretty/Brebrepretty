@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&text=Samari%20Robinson%20Camacho&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Security&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&text=Samari%20Robinson%20Camacho&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Security&descAlignY=58&descSize=16" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Samari Robinson Camacho</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brebrepretty&label=Profile%20Views&color=8B0000&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Brebrepretty&label=Profile%20Views&color=8B0000&style=flat" />
 </p>
 
 ---
@@ -26,66 +26,54 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mongodb,sqlite,github,git,linux,androidstudio" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mongodb,sqlite,github,git,linux,androidstudio" />
 </p>
 
 **Core strengths:** Backend Development, Embedded Systems, Secure Coding, Data Visualization, MVC Architecture, CRUD Operations, Real-Time Systems
 
 ---
 
-## 🚀 Featured Projects (Portfolio Highlights)
+## 🚀 Featured Projects
 
 ### 🐾 Animal Shelter Dashboard
-
-* Built with Python, Dash, MongoDB
-* Full CRUD functionality and data visualization
-* MVC architecture for scalability
-  🔗 https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard
+- Python, Dash, MongoDB  
+- Full CRUD + data visualization  
+- MVC architecture  
+🔗 https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard
 
 ---
 
 ### 🔧 Embedded Systems – Smart Thermostat
-
-* Raspberry Pi project with real-time sensor processing
-* GPIO, PWM, and UART communication
-* State machine logic for system control
-  🔗 https://github.com/Brebrepretty/CS-350-embedded-systems-project
+- Raspberry Pi, GPIO, PWM, UART  
+- Real-time sensor processing  
+- State machine logic  
+🔗 https://github.com/Brebrepretty/CS-350-embedded-systems-project
 
 ---
 
 ### 🔐 Secure Coding Projects
-
-* Prevented buffer overflows and SQL injection
-* Implemented input validation and secure coding practices
-  🔗 https://github.com/Brebrepretty/CS-305-secure-coding-projects
+- Buffer overflow + SQL injection prevention  
+- Input validation and defensive coding  
+🔗 https://github.com/Brebrepretty/CS-305-secure-coding-projects
 
 ---
 
 ### 🎮 3D Graphics Engine (C++)
-
-* OpenGL-based rendering system
-* Scene management and object transformations
-  🔗 https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp
+- OpenGL-based rendering system  
+- Scene management + object transformations  
+🔗 https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp
 
 ---
 
 ## 🎯 Career Focus
-
-* Backend Development
-* Embedded Systems Engineering
-* Software Security
-
----
-
-## ⚡ Fun Fact
-
-I combine real-world security experience with software engineering to build reliable and secure systems.
+- Backend Development  
+- Embedded Systems Engineering  
+- Software Security  
 
 ---
 
-## 📫 Connect With Me
-
-📧 [robinsonsamari95@gmail.com](mailto:robinsonsamari95@gmail.com)
+## 📫 Contact
+📧 robinsonsamari95@gmail.com  
 🔗 https://github.com/Brebrepretty
 
 ---
