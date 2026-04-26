@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=220&section=header&text=Samari%20Robinson%20Camacho&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Security&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F1C2C,928DAB&height=220&section=header&text=Samari%20Robinson%20Camacho&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Security&descAlignY=58&descSize=16" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Samari Robinson Camacho</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brebrepretty&label=Profile%20Views&color=203A43&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Brebrepretty&label=Profile%20Views&color=928DAB&style=flat" />
 </p>
 
 ---
@@ -37,19 +37,35 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 
 ### 🐾 Animal Shelter Dashboard
 
-🔗 https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard
+* Python, Dash, MongoDB
+* Full CRUD + data visualization
+* MVC architecture
+  🔗 https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard
+
+---
 
 ### 🔧 Embedded Systems – Smart Thermostat
 
-🔗 https://github.com/Brebrepretty/CS-350-embedded-systems-project
+* Raspberry Pi, GPIO, PWM, UART
+* Real-time sensor processing
+* State machine logic
+  🔗 https://github.com/Brebrepretty/CS-350-embedded-systems-project
+
+---
 
 ### 🔐 Secure Coding Projects
 
-🔗 https://github.com/Brebrepretty/CS-305-secure-coding-projects
+* Buffer overflow + SQL injection prevention
+* Input validation and defensive coding
+  🔗 https://github.com/Brebrepretty/CS-305-secure-coding-projects
+
+---
 
 ### 🎮 3D Graphics Engine (C++)
 
-🔗 https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp
+* OpenGL concepts
+* Scene management + rendering
+  🔗 https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp
 
 ---
 
@@ -61,6 +77,12 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 
 ---
 
+## ⚡ Fun Fact
+
+I combine real-world security experience with software engineering to build reliable and secure systems.
+
+---
+
 ## 📫 Contact
 
 📧 [robinsonsamari95@gmail.com](mailto:robinsonsamari95@gmail.com)
@@ -69,5 +91,5 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F1C2C,928DAB&height=120&section=footer" />
 </p>
