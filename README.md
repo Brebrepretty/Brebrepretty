@@ -36,56 +36,49 @@ I bring a security-first mindset from real-world experience monitoring systems, 
 ## 🚀 Featured Projects
 
 ### 🐾 Animal Shelter Dashboard
-
-* Python, Dash, MongoDB
-* Full CRUD + data visualization
-* MVC architecture
-  🔗 https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard
+- Python, Dash, MongoDB  
+- Full CRUD + data visualization  
+- MVC architecture  
+🔗 https://github.com/Brebrepretty/CS-340-animal-shelter-dashboard
 
 ---
 
 ### 🔧 Embedded Systems – Smart Thermostat
-
-* Raspberry Pi, GPIO, PWM, UART
-* Real-time sensor processing
-* State machine logic
-  🔗 https://github.com/Brebrepretty/CS-350-embedded-systems-project
+- Raspberry Pi, GPIO, PWM, UART  
+- Real-time sensor processing  
+- State machine logic  
+🔗 https://github.com/Brebrepretty/CS-350-embedded-systems-project
 
 ---
 
 ### 🔐 Secure Coding Projects
-
-* Buffer overflow + SQL injection prevention
-* Input validation and defensive coding
-  🔗 https://github.com/Brebrepretty/CS-305-secure-coding-projects
+- Buffer overflow + SQL injection prevention  
+- Input validation and defensive coding  
+🔗 https://github.com/Brebrepretty/CS-305-secure-coding-projects
 
 ---
 
 ### 🎮 3D Graphics Engine (C++)
-
-* OpenGL concepts
-* Scene management + rendering
-  🔗 https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp
+- OpenGL concepts  
+- Scene management + rendering  
+🔗 https://github.com/Brebrepretty/CS-330-3d-graphics-engine-cpp
 
 ---
 
 ## 🎯 Career Focus
-
-* Backend Development
-* Embedded Systems Engineering
-* Software Security
+- Backend Development  
+- Embedded Systems Engineering  
+- Software Security  
 
 ---
 
 ## ⚡ Fun Fact
-
 I combine real-world security experience with software engineering to build reliable and secure systems.
 
 ---
 
 ## 📫 Contact
-
-📧 [robinsonsamari95@gmail.com](mailto:robinsonsamari95@gmail.com)
+📧 robinsonsamari95@gmail.com  
 🔗 https://github.com/Brebrepretty
 
 ---
